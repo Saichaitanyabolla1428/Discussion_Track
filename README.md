@@ -10,5 +10,7 @@
 - [ ] Kubernetes
 - [ ] Openshift
 - [ ] Ansible
+- [ ] Prometheus
+- [ ] Grafana
 - [ ] Python
 - [ ] Terraform
